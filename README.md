@@ -14,7 +14,7 @@ To create an Android application that extracts employee information using JSON m
 
 - **Platform:** Android
 - **Language:** Java
-- **IDE:** Android Studio)
+- **IDE:** Android Studio
 - **UI Layout:** XML
 - **JSON Parsing:** `org.json.JSONObject`
 - **Emulator:** Android Virtual Device (AVD)
